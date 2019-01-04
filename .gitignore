@@ -1,0 +1,9 @@
+*.log
+__pycache__/
+.DS_Store
+config.py
+data/
+ga_secrets_new.json
+ga_secrets.json
+generate_refresh_token.py
+generate_google_key.py
